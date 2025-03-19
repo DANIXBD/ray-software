@@ -1,0 +1,4 @@
+[submodule "proyecto final/segundo avance/proyecto final/segundo avance/deli-bird-pwa"]
+	path = proyecto final/segundo avance/proyecto final/segundo avance/deli-bird-pwa
+	url = https://github.com/gpcortezz/deli-bird-pwa.git
+	branch = danielBranch
